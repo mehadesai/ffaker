@@ -1546,6 +1546,16 @@
 | `name_with_prefix` | Tn. Aldi Pradanna, Tn. Qomar Rahmadiah, Nn. Chandra Claudia |
 | `prefix` | Ny., Ny., Nn. |
 
+## FFaker::NameAR
+
+| Method | Example |
+| ------ | ------- |
+| `first_name_female` | Zainab, Neha, Amrita |
+| `first_name_male` | Abhijeet, Shoaib, Varun |
+| `last_name` | Saha, Bakshi, Wadia |
+| `name_female` | Anita Khanna, Ruhi Khan, Meher Bajaj  |
+| `name_male` | Rahul Mukherjee, Abhay Subramanian, Zeeshan Haider |
+
 ## FFaker::NameIT
 
 | Method | Example |
